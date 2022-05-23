@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\drose\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\drose\\.nuget\\packages",
+      "F:\\Vs tools\\NuGetPackages"
+    ]
+  }
+}
